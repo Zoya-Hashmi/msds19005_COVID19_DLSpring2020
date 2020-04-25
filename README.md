@@ -8,5 +8,6 @@ Shared Google Drive Link to the Dataset can be found here
 The Shared Google Drive Link for saved weights corresponding to Finetuning and Retraining are given below</br>
 <a href="https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-">Finetuning FC Layers</a>
 </br><a href="https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC"> Retraining Complete Mode</a>
-<!--<h1>Qualitative Results</h1>>
-
+<h1>Qualitative Results</h1>
+<img src="New Folder/res_full.png">
+<img src="New Folder/vgg_full.png>
