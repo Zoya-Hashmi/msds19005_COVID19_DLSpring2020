@@ -9,8 +9,9 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 * [Finetuning FC Layers](https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-)
 * [Retraining Complete Mode](https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC)
 # Qualitative Results
-![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png){:height="50%" width="50%"}
-![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png | width=600px | height=300px)
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
+<!--![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png){:height="50%" width="50%"}
+![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png | width=600px | height=300px)--!>
 
-<!--<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/res_full.png">
+<!--<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/vgg_full.png>--!>
