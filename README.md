@@ -9,8 +9,8 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 <a href="https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-">Finetuning FC Layers</a>
 </br><a href="https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC"> Retraining Complete Mode</a>
 <h1>Qualitative Results</h1>
-![image]('New Folder/res_full.png')
-![image]('New Folder/vgg_full.png')
+![image]("New Folder/res_full.png")
+![image]("New Folder/vgg_full.png")
 
 <!--<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/res_full.png">
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/vgg_full.png>--!>
