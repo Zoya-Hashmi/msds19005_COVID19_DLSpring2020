@@ -13,12 +13,12 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 <figure>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
 <figcaption>Column1 00 | Column2 01 | Column3 10 | Column4 11</figcaption>
-</figure>
+</figure></br>
 ## VGG
 <figure>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png" width=600 height=300>
 <figcaption>Column1 00 | Column2 01 | Column3 10 | Column4 11</figcaption>
-</figure>
+</figure></br>
 Note: 0 is infected class 1 in healthy, first number represents true label, 2nd represents predicted label
 <!--![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png){:height="50%" width="50%"}
 ![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png | width=600px | height=300px)--!>
