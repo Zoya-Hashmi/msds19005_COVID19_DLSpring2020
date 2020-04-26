@@ -10,18 +10,12 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 * [Retraining Complete Mode](https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC)
 # Qualitative Results
 ## ResNet
-<figure>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
-<figcaption>Column1 00 | Column2 01 | Column3 10 | Column4 11</figcaption>
-</figure>
 </br>
 </br>
 ## VGG
-<figure>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png" width=600 height=300>
-<figcaption></figcaption>
-</figure></br>
-__To interpret images:__ </br>
+</br>__To interpret images:__ </br>
 Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 0 is infected class 1 in healthy, first number represents true label, 2nd represents predicted label
 <!--![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png){:height="50%" width="50%"}
