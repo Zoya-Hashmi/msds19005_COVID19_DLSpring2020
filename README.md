@@ -11,8 +11,7 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 # Qualitative Results
 ## ResNet
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
-</br>
-</br>
+
 ## VGG
 
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png" width=600 height=300>
