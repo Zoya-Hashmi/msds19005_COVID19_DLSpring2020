@@ -2,9 +2,9 @@
 “This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.”
 
 # Dataset
-Shared Google Drive Link to the Dataset can be found here\
+Shared Google Drive Link to the Dataset can be found here 
 [link]("https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&authuser=0")
-#Trained Weights
+# Trained Weights
 The Shared Google Drive Link for saved weights corresponding to Finetuning and Retraining are given below\
 * [Finetuning FC Layers]("https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-")
 * [Retraining Complete Mode]("https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC")
