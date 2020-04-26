@@ -3,14 +3,14 @@
 
 # Dataset
 Shared Google Drive Link to the Dataset can be found here 
-__[link]("https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&authuser=0")__
+__[link](https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&authuser=0)__
 # Trained Weights
 The Shared Google Drive Link for saved weights corresponding to Finetuning and Retraining are given below\
-* [Finetuning FC Layers]("https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-")
-* [Retraining Complete Mode]("https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC")
+* [Finetuning FC Layers](https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-)
+* [Retraining Complete Mode](https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC)
 # Qualitative Results
-![image]("https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/images/res_full.png")\
-![image]("https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/images/vgg_full.png")
+![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/images/res_full.png)\
+![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/images/vgg_full.png)
 
 <!--<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/res_full.png">
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/vgg_full.png>--!>
