@@ -14,7 +14,7 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 * [Retraining Complete Model](https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC)</br>
 </br>
 The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss on VGG and ResNet is given below
-* [Focal Loss Experiments](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
+* [link](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
 
 # Qualitative Results
 ## ResNet
