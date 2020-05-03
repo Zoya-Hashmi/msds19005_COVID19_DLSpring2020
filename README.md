@@ -39,7 +39,7 @@ Below are the results with and without application of focal loss for class balan
 |with Focal Loss|95%-0.69|96%-0.83|
 |without-Focal Loss|96%-0.68(acc-F1)|96%-0.90|
 
-In the following images pper row corresponds to confusion matrices obtained per class with application of focal loss. And the bottom row corresponds to the confusion matrices obtained when no focal loss is applied.
+In the following images pper row corresponds to confusion matrices obtained per class with application of focal loss. And the bottom row corresponds to the confusion matrices obtained when no focal loss is applied (clearly demonstrating how focal loss improves the representation learning of sparse classes).
 ## ResNet
 
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/res.png" width=800 height=400>
