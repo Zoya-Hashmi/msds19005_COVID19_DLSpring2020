@@ -24,7 +24,7 @@ _Test Accuracy and F1 Score_
 |Complete Retraining|95%-0.96|95%-0.96|
 
 The above row corresponds to ResNet and bottom row corresponds to VGG Confusion Matrices for Test Set(right FineTuned FCs, left Complete Retraining)
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =600 height =600>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =500 height =400>
 
 
 # Results (Class Balancing)
