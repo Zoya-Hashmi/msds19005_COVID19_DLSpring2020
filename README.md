@@ -16,28 +16,24 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 ## Part2
 The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss for class balancing on VGG and ResNet is given [link](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
 
-# Qualitative Results (No Class Balancing)
-## ResNet
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
+# Results (No Class Balancing)
+-Validation Accuracy and F1 Score_
+||ResNet|VGG|
+|---|-----|------|
+|Fine Tuning FCs|83%-0.86|84%-0.86|
+|Complete Retraining|89%-0.91|89%-0.91|
 
-## VGG
+The above row corresponds to ResNet and bottom row corresponds to VGG Confusion Matrices for Validation Set(right FineTuned FCs, left Complete Retraining)
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1.png" width =600 height =600>
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/vgg_full.png" width=600 height=300>
-
-</br>
-
-__To interpret images:__ </br>
-
-Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
-0 is infected class 1 is healthy, first number represents true label, 2nd represents predicted label
 
 # Results (Class Balancing)
 Below are the results with and without application of focal loss for class balancing.
-
+_Validation Accuracy and F1 Score_
 ||ResNet|VGG|
 |---|-----|------|
 |with Focal Loss|95%-0.69|96%-0.83|
-|without-Focal Loss|96%-0.68(acc-F1)|96%-0.90|
+|without-Focal Loss|96%-0.68|96%-0.90|
 
 In the following images pper row corresponds to confusion matrices obtained per class with application of focal loss. And the bottom row corresponds to the confusion matrices obtained when no focal loss is applied (clearly demonstrating how focal loss improves the representation learning of sparse classes).
 ## ResNet
