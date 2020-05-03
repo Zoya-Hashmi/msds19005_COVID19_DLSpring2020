@@ -23,7 +23,7 @@ _Test Accuracy and F1 Score_
 |Fine Tuning FCs|89%-0.91|92%-0.93|
 |Complete Retraining|95%-0.96|95%-0.96|
 
-The above row corresponds to ResNet and bottom row corresponds to VGG Confusion Matrices for Test Set(right FineTuned FCs, left Complete Retraining)
+The above row corresponds to ResNet and bottom row corresponds to VGG Confusion Matrices for Test Set(right FineTuned FCs, left Complete Retraining) *Note* 0->covid-19  1->normal
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =500 height =400>
 
 
