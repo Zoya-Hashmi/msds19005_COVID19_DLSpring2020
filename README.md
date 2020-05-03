@@ -39,9 +39,9 @@ Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 |with Focal Loss|95%-0.69|96%-0.83|
 ## ResNet
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/res.png" width=600 height=300>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/res.png" width=800 height=400>
 
 ## VGG
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/vgg.png" width=600 height=300>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/vgg.png" width=800 height=400>
 
