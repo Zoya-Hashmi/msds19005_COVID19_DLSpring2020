@@ -1,14 +1,20 @@
 # msds19005_COVID19_DLSpring2020
 “This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.”
 
-# Dataset
-Shared Google Drive Link to the Dataset can be found here
+# Datasets
+* Shared Google Drive Link to the Dataset for __covid vs normal__ can be found here
 [link](https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&authuser=0)
+* Shared Google Drive Link to the Dataset for __covid vs pneumonia vs normal__ can be found here
+[link](https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO&authuser=0)
+
 # Trained Weights
 The Shared Google Drive Link for saved weights corresponding to Finetuning and Retraining are given below
 * [Finetuning FC Layers](https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-)
 * [Unfreezing Partial Conv Layers](https://drive.google.com/open?id=1i3QHQNg_Bq4UAAWiK-_VRoPZpmXnFuVq)
 * [Retraining Complete Model](https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC)
+The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss on VGG and ResNet are given below
+[Focal Loss Experiments](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
+
 # Qualitative Results
 ## ResNet
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
