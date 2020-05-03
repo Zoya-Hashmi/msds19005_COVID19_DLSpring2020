@@ -17,14 +17,14 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss for class balancing on VGG and ResNet is given [link](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
 
 # Results (No Class Balancing)
--Validation Accuracy and F1 Score_
+_Test Accuracy and F1 Score_
 ||ResNet|VGG|
 |---|-----|------|
-|Fine Tuning FCs|83%-0.86|84%-0.86|
-|Complete Retraining|89%-0.91|89%-0.91|
+|Fine Tuning FCs|89%-0.91|92%-0.93|
+|Complete Retraining|95%-0.96|95%-0.96|
 
-The above row corresponds to ResNet and bottom row corresponds to VGG Confusion Matrices for Validation Set(right FineTuned FCs, left Complete Retraining)
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1.png" width =600 height =600>
+The above row corresponds to ResNet and bottom row corresponds to VGG Confusion Matrices for Test Set(right FineTuned FCs, left Complete Retraining)
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =600 height =600>
 
 
 # Results (Class Balancing)
