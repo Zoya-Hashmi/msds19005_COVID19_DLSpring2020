@@ -31,7 +31,7 @@ __To interpret images:__ </br>
 Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 0 is infected class 1 is healthy, first number represents true label, 2nd represents predicted label
 
-# Reslts (Class Balancing)
+# Results (Class Balancing)
 Below are the results with and without application of focal loss for class balancing.
 
 ||ResNet|VGG|
