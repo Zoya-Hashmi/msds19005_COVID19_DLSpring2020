@@ -27,7 +27,7 @@ The above row corresponds to ResNet and bottom row corresponds to VGG Confusion 
 
 *Note* 0->covid-19  1->normal 
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =500 height =400>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =600 height =500>
 
 
 # Results (Class Balancing)
@@ -41,9 +41,9 @@ _Validation Accuracy and F1 Score_
 In the following images pper row corresponds to confusion matrices obtained per class with application of focal loss. And the bottom row corresponds to the confusion matrices obtained when no focal loss is applied (clearly demonstrating how focal loss improves the representation learning of sparse classes).
 ## ResNet
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/res.png" width=800 height=400>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/res.png" width=1000 height=600>
 
 ## VGG
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/vgg.png" width=800 height=400>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/vgg.png" width=1000 height=600>
 
