@@ -8,11 +8,12 @@
 [link](https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO&authuser=0)
 
 # Trained Weights
+## Part1
 The Shared Google Drive Link for saved weights corresponding to Finetuning and Retraining are given below
 * [Finetuning FC Layers](https://drive.google.com/open?id=1IdKY0K4D15RHScjDLYbunJ8L3lWTiF5-)
 * [Unfreezing Partial Conv Layers](https://drive.google.com/open?id=1i3QHQNg_Bq4UAAWiK-_VRoPZpmXnFuVq)
 * [Retraining Complete Model](https://drive.google.com/open?id=1Gp6H6SaXs6nsU8Pts98LY3MeB48K_0yC)</br>
-</br>
+## Part2
 The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss on VGG and ResNet is given [link](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
 
 # Qualitative Results
