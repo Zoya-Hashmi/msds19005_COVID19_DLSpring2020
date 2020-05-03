@@ -36,7 +36,9 @@ Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 <!--<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/vgg_full.png>--!>
 
+</br>
 
 # With Focal Loss
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/tree/master/results./res.png" width=600 height=300>
+</br>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/tree/master/results/vgg.png" width=600 height=300>
