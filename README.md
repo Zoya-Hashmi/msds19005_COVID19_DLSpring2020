@@ -16,7 +16,7 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 ## Part2
 The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss on VGG and ResNet is given [link](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
 
-# Qualitative Results
+# Qualitative Results (Without Focal Loss)
 ## ResNet
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
 
@@ -35,3 +35,8 @@ Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 
 <!--<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/New Folder/vgg_full.png>--!>
+
+
+# With Focal Loss
+![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/tree/master/results./res.png)
+![image](https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/tree/master/results/vgg.png)
