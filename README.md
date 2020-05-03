@@ -16,7 +16,7 @@ The Shared Google Drive Link for saved weights corresponding to Finetuning and R
 ## Part2
 The Shared Google Drive Link for saved weights corresponding to Finetuning with and without focal loss for class balancing on VGG and ResNet is given [link](https://drive.google.com/open?id=1V7MaxYag43sEwmUNl1NklidXI3gIz6XC)
 
-# Qualitative Results (Without Focal Loss)
+# Qualitative Results (No Class Balancing)
 ## ResNet
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/images/res_full.png" width=600 height=300>
 
@@ -31,12 +31,15 @@ __To interpret images:__ </br>
 Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 0 is infected class 1 is healthy, first number represents true label, 2nd represents predicted label
 
-# With Focal Loss
+# Reslts (Class Balancing)
+Below are the results with and without application of focal loss for class balancing.
 
 ||ResNet|VGG|
 |---|-----|------|
-|without-Focal Loss|96%-0.68(acc-F1)|96%-0.90|
 |with Focal Loss|95%-0.69|96%-0.83|
+|without-Focal Loss|96%-0.68(acc-F1)|96%-0.90|
+
+In the following images pper row corresponds to confusion matrices obtained per class with application of focal loss. And the bottom row corresponds to the confusion matrices obtained when no focal loss is applied.
 ## ResNet
 
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/res.png" width=800 height=400>
