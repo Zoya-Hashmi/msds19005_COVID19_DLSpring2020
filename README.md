@@ -27,7 +27,7 @@ The above row corresponds to ResNet and bottom row corresponds to VGG Confusion 
 
 *Note* 0->covid-19  1->normal 
 
-<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =600 height =500>
+<img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/blob/master/results/task1_test.png" width =600 height =600>
 
 
 # Results (Class Balancing)
