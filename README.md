@@ -41,6 +41,6 @@ Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 # With Focal Loss
 ## ResNet
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/tree/master/results/res.png" width=600 height=300>
-</br>
+
 ## VGG
 <img src="https://github.com/Zoya-Hashmi/msds19005_COVID19_DLSpring2020/tree/master/results/vgg.png" width=600 height=300>
