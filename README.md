@@ -35,7 +35,7 @@ Column1 00 | Column2 01 | Column3 10 | Column4 11</br>
 
 ||ResNet|VGG|
 |---|-----|------|
-|without-Focal Loss|96%-0.68|96%-0.90|
+|without-Focal Loss|96%-0.68(acc-F1)|96%-0.90|
 |with Focal Loss|95%-0.69|96%-0.83|
 ## ResNet
 
